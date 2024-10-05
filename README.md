@@ -17,7 +17,7 @@ This repository contains a Python implementation of the Block World problem solv
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Block-world-domain.git
+    git clone https://github.com/harshiniraj311/Block-world-domain.git
     cd Block-world-domain
     ```
 
