@@ -1,4 +1,4 @@
-# Block World Problem Solver
+# Block World Domain
 
 This repository contains a Python implementation of the Block World problem solver using the A* algorithm. The solver includes both a step-by-step textual output and an animated visualization of the solution.
 
@@ -17,7 +17,7 @@ This repository contains a Python implementation of the Block World problem solv
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/block-world-problem.git
+    git clone https://github.com/yourusername/Block-world-domain.git
     cd block-world-problem
     ```
 
