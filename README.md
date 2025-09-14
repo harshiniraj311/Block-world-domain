@@ -41,26 +41,26 @@ The animation will show the blocks being moved from the initial state to the goa
 
 ## Screenshots
 ### Input
-<img src="https://github.com/harshiniraj311/block-world-problem/blob/main/images/o1.png" alt="Block World Step 1" width="550">
+<img src="https://github.com/harshiniraj311/Block-world-domain/blob/main/images/o1.png" alt="Block World Step 1" width="550">
 
 ### Output
 <p float="left">
-  <img src="https://github.com/harshiniraj311/block-world-problem/blob/main/images/o2.png" alt="Block World Step 2" width="250" height="250">
-  <img src="https://github.com/harshiniraj311/block-world-problem/blob/main/images/o3.png" alt="Block World Step 3" width="250" height="250">
+  <img src="https://github.com/harshiniraj311/Block-world-domain/blob/main/images/o2.png" alt="Block World Step 2" width="250" height="250">
+  <img src="https://github.com/harshiniraj311/Block-world-domain/blob/main/images/o3.png" alt="Block World Step 3" width="250" height="250">
 </p>
 
 ### Animated output
 <p float="left">
-  <img src="https://github.com/harshiniraj311/block-world-problem/blob/main/images/Figure_1.png" alt="Figure 1" width="400">
-  <img src="https://github.com/harshiniraj311/block-world-problem/blob/main/images/Figure_2.png" alt="Figure 2" width="400">
+  <img src="https://github.com/harshiniraj311/Block-world-domain/blob/main/images/Figure_1.png" alt="Figure 1" width="400">
+  <img src="https://github.com/harshiniraj311/Block-world-domain/blob/main/images/Figure_2.png" alt="Figure 2" width="400">
 </p>
 
 <p float="left">
-  <img src="https://github.com/harshiniraj311/block-world-problem/blob/main/images/Figure_3.png" alt="Figure 3" width="400">
-  <img src="https://github.com/harshiniraj311/block-world-problem/blob/main/images/Figure_4.png" alt="Figure 4" width="400">
+  <img src="https://github.com/harshiniraj311/Block-world-domain/blob/main/images/Figure_3.png" alt="Figure 3" width="400">
+  <img src="https://github.com/harshiniraj311/Block-world-domain/blob/main/images/Figure_4.png" alt="Figure 4" width="400">
 </p>
 
 <p float="left">
-  <img src="https://github.com/harshiniraj311/block-world-problem/blob/main/images/Figure_5.png" alt="Figure 5" width="400">
-  <img src="https://github.com/harshiniraj311/block-world-problem/blob/main/images/Figure_6.png" alt="Figure 6" width="400">
+  <img src="https://github.com/harshiniraj311/Block-world-domain/blob/main/images/Figure_5.png" alt="Figure 5" width="400">
+  <img src="https://github.com/harshiniraj311/Block-world-domain/blob/main/images/Figure_6.png" alt="Figure 6" width="400">
 </p>
